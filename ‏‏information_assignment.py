@@ -4,7 +4,7 @@ by prof. reuven cohen
 course assignment
 
 student: Agai Maor
-ID:     305544546
+ID:     ---
 
 Intro:
 this python file should be located with the dickens.txt file in the same folder to work
