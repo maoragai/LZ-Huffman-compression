@@ -1,6 +1,6 @@
 # Information_Theory
 information theory course assignment
 
-The goal was to compress a text file(i.e. dickens.txt) in a better compression ratio than zip implements
+The goal was to compress a text file(i.e. dickens.txt) in a better compression ratio than zip achieves
 
-i implemented a lempel-ziv compression followed by an huffman tree coding compression
+I implemented a lempel-ziv compression followed by an huffman tree coding compression
